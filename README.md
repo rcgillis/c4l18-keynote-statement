@@ -152,7 +152,6 @@ unprofessional behavior.
 * Carol Bean
 * Carolyn Caizzi
 * Carolyn Ciesla
-* Carolyn Moritz
 * Carrie Wade
 * Catherine Pellegrino
 * Cathy Aster
@@ -598,6 +597,7 @@ unprofessional behavior.
 * Robert H. McDonald
 * Rochelle Mazar
 * Rogan Hamby
+* Roger Gillis
 * Ron Nakao
 * Ron Peterson (Code4Lib Journal Editorial Committee)
 * Roopika Risam
